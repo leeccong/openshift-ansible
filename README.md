@@ -75,7 +75,6 @@ dnf install -y ansible pyOpenSSL python-cryptography python-lxml
 ```
 
 Additional requirements:
-
 Logging:
 
 - java-1.8.0-openjdk-headless
